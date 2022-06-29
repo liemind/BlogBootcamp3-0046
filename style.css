@@ -1,0 +1,96 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  font-family: 'Roboto', sans-serif;
+}
+
+header {
+    text-align: center;
+    font-weight: 100;
+    font-size: 14px;
+}
+
+header h1 {
+    font-family: 'Montserrat', sans-serif;
+    font-size: 50px;
+    text-transform: uppercase;
+}
+
+section {
+    border: 1px solid lightgray;
+    margin: 0 auto;
+    max-width: 700px;
+    max-height: 600px;
+    margin-bottom: 20px;
+}
+
+section h1 {
+    font-family: 'Montserrat', sans-serif;
+}
+
+h4 {
+    font-weight: 100;
+}
+
+td {
+    text-align: center;
+    width: 300px;
+    font-size: 12px;
+}
+
+#padding {
+    padding: 20px!important;
+}
+
+td p {
+    text-align: justify ;
+}
+
+td ul {
+    text-align: left;
+}
+
+th {
+    background: lightgray;
+}
+
+img {
+    width: 350px;
+    height: 350px;
+}
+
+#footer {
+    margin: 0 auto;
+}
+
+footer {
+  text-align:center;
+  background-color: lightgray;
+  padding: 20px 10px;
+  margin: 0 auto;
+}
+
+
+input, select {
+    border: 1px solid #ced4da;
+    border-radius: 5px;
+    padding: 5px 20px;
+    color: #212529;
+    background-color: #fff;
+}
+
+#submit {
+    padding: 5px 30px;
+    background-color: #0a58ca;
+    color: white;
+}
+
+#image_footer {
+    width: 200px;
+    height: 200px;
+}
+
+#p_footer {
+    font-weight: 100;
+    font-size: 12px;
+}
